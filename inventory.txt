@@ -1,0 +1,2 @@
+Carrot,20
+Apple,5
